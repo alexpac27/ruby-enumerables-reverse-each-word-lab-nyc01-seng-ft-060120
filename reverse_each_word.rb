@@ -7,5 +7,3 @@ p reverse_array.join(" ")
 end
 
 reverse_each_word(This is a string!)
-
-binding.pry
