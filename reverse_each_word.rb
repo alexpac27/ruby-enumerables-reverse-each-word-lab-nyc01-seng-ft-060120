@@ -5,3 +5,5 @@ array = %w[string]
 reverse_array = array.collect{ |e| e.reverse}
 p reverse_array.join(" ")
 end
+
+binding.pry
